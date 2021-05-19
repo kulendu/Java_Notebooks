@@ -2,8 +2,8 @@
 This repo contains all of my `Java` files, and is for practice only. It contains some extreme basic level concepts like : **Data structure, arrays, loops, use of Scanners etc**. 
 
 ### `IDE used` :
-- IntelliJ Idea (Community Edition 2021) *Main IDE*
-- Visual Studio Code () *occassional IDE*
+- IntelliJ Idea (Community Edition 2021) - *Main IDE*
+- Visual Studio Code - *occassional IDE*
 
 ### `How to use terminal for running a Java file` :
 These following commands are used for running a Java file
